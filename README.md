@@ -1,2 +1,2 @@
-# Calligraphy_wp
-Creating website on Wordpress
+# Calligraphy
+Creating website
